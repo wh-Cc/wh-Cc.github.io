@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.CFYYzZJe.js";const C=JSON.parse('{"title":"安装","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/start.md","filePath":"Vue/start.md"}'),h={name:"Vue/start.md"},t=n("",8),p=[t];function k(l,F,e,d,r,g){return a(),i("div",null,p)}const B=s(h,[["render",k]]);export{C as __pageData,B as default};
