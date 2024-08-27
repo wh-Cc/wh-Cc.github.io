@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.ZkTbufXI.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CodeLog/05.md","filePath":"CodeLog/05.md"}'),t={name:"CodeLog/05.md"},e=n("",57),h=[e];function l(p,k,r,d,E,o){return a(),i("div",null,h)}const y=s(t,[["render",l]]);export{g as __pageData,y as default};
