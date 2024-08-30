@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a4 as p}from"./chunks/framework.DVkZaaD-.js";const m=JSON.parse('{"title":"turbo","description":"","frontmatter":{},"headers":[],"relativePath":"Turbo/index.md","filePath":"Turbo/index.md"}'),e={name:"Turbo/index.md"},t=p("",23),o=[t];function l(i,c,r,d,u,h){return n(),s("div",null,o)}const g=a(e,[["render",l]]);export{m as __pageData,g as default};

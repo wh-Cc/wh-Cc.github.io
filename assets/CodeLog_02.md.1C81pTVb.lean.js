@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.DVkZaaD-.js";const y=JSON.parse('{"title":"在项目中统一样式","description":"","frontmatter":{},"headers":[],"relativePath":"CodeLog/02.md","filePath":"CodeLog/02.md"}'),l={name:"CodeLog/02.md"},h=n("",21),p=[h];function k(t,e,E,r,d,g){return a(),i("div",null,p)}const o=s(l,[["render",k]]);export{y as __pageData,o as default};

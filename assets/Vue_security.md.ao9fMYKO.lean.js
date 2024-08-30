@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as t,a4 as o}from"./chunks/framework.ZkTbufXI.js";const S=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/security.md","filePath":"Vue/security.md"}'),s={name:"Vue/security.md"},r=o("",3),e=[r];function n(u,p,g,c,_,a){return t(),i("div",null,e)}const P=l(s,[["render",n]]);export{S as __pageData,P as default};
